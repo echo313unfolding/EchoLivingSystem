@@ -1,0 +1,20 @@
+# Large files to ignore
+models/updated/ECHO_MODEL_BASE.gguf
+EchoNanoSwarm/crystal_vault/model_lobes/WizardCoder-15B-V1.0.Q3_K_L.gguf
+EchoNanoSwarm/crystal_vault/model_lobes/WizardCoder-15B-V1.0.Q5_K_M.gguf
+EchoNanoSwarm/crystal_vault/model_lobes/WizardCoder-15B-V1.0.Q4_K_S.gguf
+EchoNanoSwarm/crystal_vault/model_lobes/WizardCoder-15B-V1.0.Q8_0.gguf
+EchoNanoSwarm/crystal_vault/model_lobes/ECHO_MODEL_BASE.gguf
+EchoNanoSwarm/crystal_vault/model_lobes/WizardCoder-15B-V1.0.Q4_K_M.gguf
+EchoNanoSwarm/crystal_vault/system_capsules/ECHO_MODEL_BASE.2025-07-20T14_06_34.033358.hxz
+EchoNanoSwarm/crystal_vault/system_capsules/WizardCoder-15B-V1.0.Q4_K_M.2025-07-20T14_06_34.033358.hxz
+EchoNanoSwarm/crystal_vault/ECHO_HELIX_MODEL_FINAL.hxz
+
+# Other ignored files/directories
+venv/
+*.sym
+*.ctz
+*.json
+*.log
+*.whl
+*.img
